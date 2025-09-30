@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "IGg5iIUu7Ws=",
+  "success": true,
+  "projectFilePath": "C:\\Triveni Global Machine Test\\triveni-global-machine-test\\EmployeeManagement.Application\\EmployeeManagement.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jaydeep Gawade\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\Jaydeep Gawade\\.nuget\\packages\\fluentvalidation\\11.8.1\\fluentvalidation.11.8.1.nupkg.sha512",
+    "C:\\Users\\Jaydeep Gawade\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "C:\\Users\\Jaydeep Gawade\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.5.1\\fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
+    "C:\\Users\\Jaydeep Gawade\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Jaydeep Gawade\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.0\\microsoft.extensions.dependencyinjection.abstractions.9.0.0.nupkg.sha512",
+    "C:\\Users\\Jaydeep Gawade\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\9.0.0\\microsoft.extensions.logging.abstractions.9.0.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.extensions.primitives\\2.2.0\\microsoft.extensions.primitives.2.2.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.memory\\4.5.1\\system.memory.4.5.1.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.runtime.compilerservices.unsafe\\4.5.1\\system.runtime.compilerservices.unsafe.4.5.1.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
